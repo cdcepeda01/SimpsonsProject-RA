@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Samples/Google Cardboard XR Plugin for Unity/1.19.0/Hello Cardboard/Scenes/HelloCardboard.unity
+    guid: 145a2a45d7bc746b19cb68410368bf96
+  - enabled: 0
+    path: Assets/Scenes/EscenaObjetos.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/00_MenuSimpsons.unity
+    guid: 2e229330b5bbdf14aab83a0b30047ac9
+  - enabled: 1
+    path: Assets/Scenes/01_TutorialSimpsons.unity
+    guid: ca384b0d2224764459ca0ee288756d0d
+  - enabled: 1
+    path: Assets/Scenes/02_JuegoSimpsons.unity
+    guid: 609647977428db742ae12917095a40ee
+  - enabled: 1
+    path: Assets/Scenes/03_FinalSimpsons.unity
+    guid: 5f1cc40e53720ea4bab53faee28bcd39
+  m_configObjects:
+    com.unity.dt.app-ui: {fileID: 11400000, guid: 1b1c20d82303e4b5781c3ef50ac1449f, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 221ab0e481aab294391eac9f7d0b4180, type: 2}
+  m_UseUCBPForAssetBundles: 0

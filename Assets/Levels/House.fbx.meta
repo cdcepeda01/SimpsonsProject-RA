@@ -1,0 +1,306 @@
+fileFormatVersion: 2
+guid: e49a318ad74fee84ea587027833be48e
+ModelImporter:
+  serializedVersion: 24300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: dresser_simponsm.png
+    second: {fileID: 2800000, guid: f27c7a597629aeb47aa9d0a50587d8e1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fireplace_simpso.png
+    second: {fileID: 2800000, guid: e203018b2f8029e488c6de251d8a2c45, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gts_maggie_duct.png
+    second: {fileID: 2800000, guid: 2f67d94e47472b34cabe3833da927da3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: house_prop_bb_pi.png
+    second: {fileID: 2800000, guid: 8628c9acb8da2a645bef1757421f18be, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: house_prop_rug_t_noesisdupname_027.png
+    second: {fileID: 2800000, guid: 350a691bffd8ac74bb6f8bc726c43b10, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: living_pic_grand.png
+    second: {fileID: 2800000, guid: 2a927277dd20dc0449e3b30d2c8ad286, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: picture_bartboat.png
+    second: {fileID: 2800000, guid: 1af22db46b9b758498a3366617f4ff53, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: picture_landscap.png
+    second: {fileID: 2800000, guid: d384c14e3ff3cb84f975e7813a89f0b1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: picture_maggie.png
+    second: {fileID: 2800000, guid: 01852092109f4d34eb9f54aac83cbda2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: picture_marge_ro.png
+    second: {fileID: 2800000, guid: c7da462500d06f349aa843b81413f9c2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: shelves_simpsons.png
+    second: {fileID: 2800000, guid: 87b443941749021449406da9c6d68bac, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: shelves_simpsons_noesisdupname_017.png
+    second: {fileID: 2800000, guid: 096135055e72c244b8adce9e5f1b2032, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sim_abstractwall.png
+    second: {fileID: 2800000, guid: b921feccd805da64b91899ee3a5639bd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sim_bartbabyport.png
+    second: {fileID: 2800000, guid: efe2c11502a01ef45a17e7222ca1a48d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sim_diningplant.png
+    second: {fileID: 2800000, guid: 737243c38bf719c4882aaa5da71f5b93, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sim_elfpicture.png
+    second: {fileID: 2800000, guid: 19c172897437fff4a8ae37444c109496, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sim_grandfather_.png
+    second: {fileID: 2800000, guid: dd96874d865813948b60fcbd09f6e220, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sim_kidswallport.png
+    second: {fileID: 2800000, guid: 0068b07a38489e94c8ea82fdb2b7bbc0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sim_krustyframed.png
+    second: {fileID: 2800000, guid: 900298f41167e74469a1c797e81ac964, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sim_krustyradond.png
+    second: {fileID: 2800000, guid: 9365d2e13cf5a3445879a4461ddc2eb1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sim_krustywavepo.png
+    second: {fileID: 2800000, guid: bf848d26e8708e54381a6feefbc3bdc7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sim_lisa_bleedin.png
+    second: {fileID: 2800000, guid: 49339406d03d06c45ad137acbf144532, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sim_lisa_jazzfes.png
+    second: {fileID: 2800000, guid: ca391821ee5a62645b21b24006317a49, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sim_maggie_elfpo.png
+    second: {fileID: 2800000, guid: 81534caf8a272f84cafa5097c4af8b00, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sim_maggieelfwal.png
+    second: {fileID: 2800000, guid: e62879fea1e7f844ba5fa0668fe54c37, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sim_maggiewallph.png
+    second: {fileID: 2800000, guid: 54836f83e054d904a9ec3fc10dd0322d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sim_masterbartli.png
+    second: {fileID: 2800000, guid: 41b8f6c74fe1c9b4cbc0cf24be17275a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sim_musicstandli.png
+    second: {fileID: 2800000, guid: 83ebb2313193b014d934b660fa6799ca, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sim_pic_homer.png
+    second: {fileID: 2800000, guid: 213af6b16df5edc42aee33912947ca85, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sim_potrait01.png
+    second: {fileID: 2800000, guid: 7c9b82401f99bb248aa2228e2b3fa03e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sim_powerplantwa.png
+    second: {fileID: 2800000, guid: cd5d00203a47f624fbde295a1c2349e6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sim_toolwallorga.png
+    second: {fileID: 2800000, guid: 9686f90d2a23b194dbae571812387534, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sim_vacationwall.png
+    second: {fileID: 2800000, guid: 02585748cc472ec4ba26fb576df2f1d5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sim_weddingwallp.png
+    second: {fileID: 2800000, guid: 1b7fa3c22123ca94ca5a8694b1fbe660, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sim_youngmargewa.png
+    second: {fileID: 2800000, guid: 867228f08285f7044808ee5b44b123f1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: simpsons_palette.png
+    second: {fileID: 2800000, guid: f640119220b2ca1408364318401d002f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: spr_sim_pottedfl.png
+    second: {fileID: 2800000, guid: 80eda00939149cd4c984d1409db5962d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: table_simpsonsdi.png
+    second: {fileID: 2800000, guid: 994d5bfa5baba5340b8372818c456890, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: toolrack_simpson.png
+    second: {fileID: 2800000, guid: 3184d52f52c4f3d48ba2409b428a1355, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+    searchTexturesGlobally: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    generateMeshLods: 0
+    meshLodGenerationFlags: 0
+    maximumMeshLod: -1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
